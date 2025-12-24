@@ -15,11 +15,8 @@ A simple **Netflix Clone** built using **HTML**, **CSS**, and **JavaScript**. Th
 - **HTML**: Structure of the webpage.
 - **CSS**: Styling the page to mimic Netflix's layout.
 - **JavaScript**: Dynamic content like fetching data from the API and handling interactions.
-- **TMDB API**: The Movie Database API (or any similar movie API) to fetch movie data.
 
-## Demo
 
-You can view a live demo of the project here: [Your Demo Link](#)
 
 ## Installation
 
